@@ -1,3 +1,2 @@
 # Cub3d
-vim n'est pas le fun
-WIP
+The goal of this 42 school project is to create a textured raycasting engine and a map parser to be able to play the game.
